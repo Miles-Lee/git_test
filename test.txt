@@ -1,2 +1,3 @@
 test text
 This is another sentence.
+This is the thrid sentence.
